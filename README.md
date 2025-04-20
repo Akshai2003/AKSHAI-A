@@ -1,7 +1,7 @@
 # AKSHAI-A
 # Hi 👋, I'm Akshai A
 
-A passionate Software Engineer from India.
+A passionate Tech Enthusiast from India.
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
